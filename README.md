@@ -1,6 +1,6 @@
 # Audio-Classification-using-Deep-Neural-Nets
-Building a High End Audio Classification System using Deep Neural Nets and Librosa
-
+### Building a High End Audio Classification System using Deep Neural Nets and Librosa
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Definition : 
 #### What is Audio and Audio Signal ?
 - Audio is a term used to describe any sound or noise in a range the human ear is capable of hearing. Measured in hertz/ Khertz
