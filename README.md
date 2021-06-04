@@ -20,6 +20,6 @@
 ![Sample Audio Waveform of a Dog Bark](sample_images/Wave_Image_sample.jpg)
 
 #### Sample Audio MEL Spectrogram Waveform of a Dog Bark
-![Sample Audio MEL Spectrogram Waveform of a Dog Bark](sample_images/Wave_Image_mel__sample.jpg)
+![Sample Audio MEL Spectrogram Waveform of a Dog Bark](sample_images/Wave_Image_mel_sample.jpg)
 
 
