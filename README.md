@@ -4,7 +4,7 @@
 
 ### Dataset : 
 - Please head to [datalink](https://urbansounddataset.weebly.com/urbansound8k.html), fill up the google form below the download section and download it
-- The Dataset has 8.2k Sample 4 sec each audio (.wav) for 10 Urban Sounds
+- The Dataset is UrbanSound8k, which has 1000 Audio Samples for each class, 4 sec long.
 - ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Definition : 
