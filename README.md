@@ -15,3 +15,4 @@
 - MEL : The Mel Scale, mathematically speaking, is the result of some non-linear transformation of the frequency scale. This Mel Scale is constructed such that sounds of equal distance from each other on the Mel Scale, also “sound” to humans as they are equal in distance from one another.
 - Spectrogram : It is the Spectra of all those frequencies with MEL Scale 
 
+![Sample Audio Waveform of a Dog Bark](sample_images/Wave_Image_sample.jpg)
